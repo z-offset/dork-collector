@@ -1,6 +1,6 @@
 # dork-collector
 ## Author: Ismail Aatif @CyberLiberty - version: 1.0
-----------------
+
 ### A Simple Script That Collects Websites With a given dork. 
 
 ### Install Requirements:
