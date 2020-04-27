@@ -10,10 +10,10 @@ pip install google
 
 ### Run The Script:
 ```bash
-python -d "inurl=index.php?id=" -l 10
+python dork.py -d "inurl=index.php?id=" -l 10
 ```
 
 ### Run the Script and Save Output
 ```bash
-python -d "inurl=index.php?id=" -l 10 -o sites.txt
+python dork.py -d "inurl=index.php?id=" -l 10 -o sites.txt
 ```
